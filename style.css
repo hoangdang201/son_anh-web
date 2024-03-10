@@ -17,7 +17,7 @@ body {
   .navbar a {
     opacity: 50%;
     display: inline-block;
-    width: 80px;
+    width: 130px;
     line-height: 60px;
     text-align: center;
     text-decoration: none;
@@ -113,53 +113,4 @@ body {
     font-size: 25px;
     font-family: "Amatic SC";
   }
-  .menu {
-    background-color: black;
-  }
-  .menu h2 {
-      margin-bottom: 50px;
-  }
-  .menu div div {
-    background-color: white;
-    padding: 20px;
-  }
-  .menu div div p {
-    margin: 0;
-  }
-  .menu div div p:nth-child(1) {
-    font-weight: bold;
-    font-size: 45px;
-    margin: 10px 0;
-  }
-  .menu div div p:nth-child(2) {
-    font-size: 35px;
-    background-color: gray;
-    border-radius: 3px;
-    display: inline-block;
-    text-align: right;
-    color: whitesmoke;
-    float: right;
-  }
-  .menu div div p:nth-child(3) {
-    font-size: 35px;
-    color: rgb(186, 186, 186);
-  }
-  .menu div .button {
-    background-color: black;
-    color: white;
-    display: flex;
-    padding: 0;
-    line-height: 70px;
-    box-shadow: inset 0px 0px 3px;
-  }
-  .menu div .button h4 {
-    width: 33.33%;
-    margin: 0;
-    text-align: center;
-    font-size: 40px;
-    margin: 0;
-    font-weight: 10;
-  }
-  .menu div .button h4:hover {
-    background-color: tomato;
-  }
+  

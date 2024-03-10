@@ -1,0 +1,37 @@
+body {
+  margin: 0;
+  font-family: "Amatic SC";
+}
+
+.wrapper {
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: bold;
+  background-image: url(./assets/background.jpg);
+  padding: 50px 0;
+}
+
+.wrapper h1 {
+  color: red;
+}
+
+.address {
+  color: burlywood;
+}
+
+.lichhoc {
+  border-collapse: collapse;
+  width: 60%;
+  margin: auto;
+}
+
+.lichhoc td {
+  border: black solid 2px;
+  width: 25%;
+  height: 25px;
+  text-align: center;
+}
+
+.date {
+  background-color: goldenrod;
+}
