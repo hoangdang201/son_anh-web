@@ -38,7 +38,7 @@ body {
   
   .wall {
     height: 100vh;
-    background-image: url(background.jpg);
+    background-image: url(./wall.jpg);
     background-size: cover;
     background-position: center;
     filter: grayscale(0.5);
